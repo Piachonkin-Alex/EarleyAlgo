@@ -1,0 +1,13 @@
+.idea
+.vscode
+**/DC_Store
+
+.coverage
+cobertura.xml
+.coverage.xml
+instance/logs
+!instance/logs/.keep
+
+*.pyc
+pycache
+.pytest_cache
