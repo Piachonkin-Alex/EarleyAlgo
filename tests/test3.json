@@ -1,0 +1,8 @@
+{ 
+"rules": [["S","a"],["S", "bS"], ["S","cSS"]],
+"words": ["bba","cba","cbbaa", "cbaccaaa", ""],
+"answers": [true, false, true, true, false],
+"lang": "|w|_c - |w|_a = -1 and for all prefix u of w |u|_c - |u|_a >= 0"
+}
+
+

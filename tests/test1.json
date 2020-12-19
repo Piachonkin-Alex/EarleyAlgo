@@ -1,0 +1,6 @@
+{ 
+"rules": [["S","aSbS"], ["S",""]],
+"words": ["ab","abaabb", "ababba", "aaabbbbaa", "ababaabb"],
+"answers": [true, true, false, false, true],
+"lang": "CSP"
+}

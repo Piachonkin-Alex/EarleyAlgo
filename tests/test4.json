@@ -1,0 +1,8 @@
+{ 
+"rules": [["S","F"],["S", "aS"], ["S","QaS"], ["F","aFbF"], ["F",""], ["Q","aFbF"]],
+"words": ["bba","aabaabb","aabbaabbb", "aaabbaaaab", "baaaa"],
+"answers": [false, true, false, true, false],
+"lang": "prefix of CSP (monosemantic)"
+}
+
+
