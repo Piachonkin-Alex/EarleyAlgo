@@ -1,0 +1,6 @@
+{ 
+"rules": [["S","aSbS"],["S", "bSaS"], ["S",""]],
+"words": ["bbababba","abba","baabaabb", "aaabbbbaa", "ababaabb"],
+"answers": [false, true, true, false, true],
+"lang": "|w|_a = |w|_b"
+}
